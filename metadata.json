@@ -1,0 +1,7 @@
+{
+  "name": "Amorim Country Bar - PDV",
+  "description": "Sistema completo de gestão para bar com tema country, incluindo PDV, modo garçom, menu digital via QR Code e integração com IA para geração de produtos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
